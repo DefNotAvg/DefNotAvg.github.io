@@ -1,6 +1,6 @@
 # Get started building your personal website
 
-## Update Count: 1
+## Update Count: 2
 
 ### Showcase your software development skills
 
